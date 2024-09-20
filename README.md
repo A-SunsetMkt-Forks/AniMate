@@ -1,5 +1,7 @@
 # AniMate
 
+>This repository is deprecated. New features and improvements will be developed in [MiKaPo](https://github.com/AmyangXYZ/MiKaPo) and [MiKaPo-Electron](https://github.com/AmyangXYZ/MiKaPo-Electron).
+
 Display and chat with your anime char on desktop. Babylonjs+Electron+OpenAI.
 
 Models are from https://aplaybox.com
